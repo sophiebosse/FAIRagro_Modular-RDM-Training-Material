@@ -226,7 +226,7 @@ The following topics and subtopics are included in the folder structure:
 - `FAIRagro_Example_Training`
   - Worksheets  - LinksToShare
   - Recording  - Slides
-  - Teachingscript  - Announcemen
+  - Teachingscript  - Announcement
 
 
 
