@@ -2,6 +2,9 @@
 
 ## Research Data Management for Agrosystem Sciences - Modular Training Material for Reuse
 
+### !Disclaimer!
+This git repo is still unter construction. You can find the first ready to use version of our modular training material on [zenodo](https://zenodo.org/records/20055188) or [Publisso FRL](https://doi.org/10.4126/FRL01-006527953).
+
 ### Authors
 
 - Sophie Boße (ORCID: [0009-0002-6461-8291](https://orcid.org/0009-0002-6461-8291)) [1a]
