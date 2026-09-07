@@ -95,15 +95,12 @@ The modular design ensures that content can be tailored to specific formats, dis
 
 This publication includes:
 
-- READ ME file (pdf)
-- “How to create a training” Guide (pdf)
-- Recording of an four hour example training session (mp4)
-- Three Zip folders containing all training materials (presentation slides, teaching scripts, worksheets) in multiple formats:
-  - “Bricks_pdf”: all materials in pdf formats (excluding presenters notes)
-  - “Bricks_MicrosoftOffice”: presentation slides as pptx, teachingscript as xlsx, worksheets as docx
-  - “Bricks_LibreOffice”: presentation slides as odp, teaching script as ods, worksheets as odt
+- READ ME file (md, pdf)
+- “How to create a training” Guide (md, pdf)
+- Bricks_Libreoffice: presentation slides as odp, teaching script as ods, worksheets as odt
+- FAIRagro Example Training: Slides (odp), Teachingsscript (ods), Worksheets (odt) and Recording (mp4) of an four hour example training session 
 
-We recommend using Microsoft Office or LibreOffice, depending on your system, rather than using PDF files.
+In this git repo just libre office formats are included. If you want to work with microsoft office or pdf, please see the publication of Version 1.0 on [zenodo](https://zenodo.org/records/20055188) or [Publisso FRL](https://doi.org/10.4126/FRL01-006527953).
 
 ## Slide Design and Visual Structure
 
