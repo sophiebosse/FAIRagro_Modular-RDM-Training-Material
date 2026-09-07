@@ -68,7 +68,7 @@ These resources include presentation slides, presenter notes, teaching scripts w
 
 All resources are structured and described in accordance with the EduBrick concept, whereby the teaching resources are broken down into the smallest didactic unit, called 'Bricks', which can be used to create targeted learning/teaching units for training events tailored to the respective needs.
 
-To enhance reusability, all materials are provided in multiple formats and are openly licensed.
+To enhance reusability, all materials are provided in open format in our git repo, as well as in multiple formats on [zenodo](https://zenodo.org/records/20055188) or [Publisso FRL](https://doi.org/10.4126/FRL01-006527953) and are openly licensed.
 
 We also provide an example of how the Bricks could be used to create a four-hour online training course, including a teaching script, presentation slides, worksheets and a video recording of the training course.
 
@@ -164,62 +164,69 @@ The composition depends on:
 
 ## Folder Structure
 
-The folder structure within the Zip folders reflects the thematic organization and numbering logic.
+The folder structure within the Brick_Libreoffice folder reflects the thematic organization and numbering logic.
 
 For the best display, we recommend sorting by name, regardless of file type.
 
 The following topics and subtopics are included in the folder structure:
 
 - `00_Welcome`
-- `00_Welcome_Teachingscript`
-- `00-01_Titel`
-- `00-02_FAIRagro`
-- `00-03_AboutThisCourse`
-- `00-04_Agenda`
-- `00-05_Icebreaker`
-- `00-06_ResearchJourney_Slides`
+  - `00_Welcome_Teachingscript`
+  - `00-01_Titel`
+  - `00-02_FAIRagro`
+  - `00-03_AboutThisCourse`
+  - `00-04_Agenda`
+  - `00-05_Icebreaker`
+  - `00-06_ResearchJourney_Slides`
 - `01_Researchdatamangement`
-- `01_Researchdatamanagement_Teachingscript`
-- `01-01_Researchdata`
-- `01-01-06_FileFormats`
-- `01-02_Researchdatamanagement`
-- `01-03_DataLifecycle`
+  - `01_Researchdatamanagement_Teachingscript`
+  - `01-01_Researchdata`
+    - `01-01-06_FileFormats`
+  - `01-02_Researchdatamanagement`
+  - `01-03_DataLifecycle`
 - `02_GoodResearchPractice`
 - `03_ResearchPolicies`
 - `04_FAIR-Prinzipien`
 - `05_DataOrganisation`
-- `05-02_DataOrganisation_NamingConvention`
-- `05-03_DataOrganisation_FolderStructure`
-- `05-04_DataOrganisation_VersionControl`
+  - `05-02_DataOrganisation_NamingConvention`
+  - `05-03_DataOrganisation_FolderStructure`
+  - `05-04_DataOrganisation_VersionControl`
 - `06_DataDocumentation`
-- `06-01_DataDocumentation_Intro`
-- `06-02_DataDocumentation_Types`
-- `06-03_DataDocumentation_Metadaten`
-- `06-04_DataDocumentation_Metadatenstandards`
-- `06-05_DataDocumentation_SemanticWeb`
-- `06-06_DataDocumentation_PersistentIdentifier`
-- `06-07_DataDocumentation_ComputationalReproducibility`
+  - `06-01_DataDocumentation_Intro`
+  - `06-02_DataDocumentation_Types`
+  - `06-03_DataDocumentation_Metadaten`
+  - `06-04_DataDocumentation_Metadatenstandards`
+  - `06-05_DataDocumentation_SemanticWeb`
+  - `06-06_DataDocumentation_PersistentIdentifier`
+  - `06-07_DataDocumentation_ComputationalReproducibility`
 - `07_DataManagementPlan`
-- `07-07_DataManagementPlan_Tools`
+  - `07-07_DataManagementPlan_Tools`
 - `08_DataCollection`
-- `08-01_DataCollection_ElectronicLabNotebooks`
-- `08-02_DataCollection_ElectronicFieldbooks`
-- `08-03_DataCollection_DataReuse`
+  - `08-01_DataCollection_ElectronicLabNotebooks`
+  - `08-02_DataCollection_ElectronicFieldbooks`
+  - `08-03_DataCollection_DataReuse`
 - `09_DataStorage`
 - `10_DataPublication`
-- `10-01_DataPublication_Sharing`
-- `10-02_DataPublication_Repositories`
-- `10-03_DataPublication_Data-Journals`
+  - `10-01_DataPublication_Sharing`
+  - `10-02_DataPublication_Repositories`
+  - `10-03_DataPublication_Data-Journals`
 - `11_LegalAspects`
-- `11-00_LegalAspects_CaseStudy`
-- `11-01_LegalAspects_Datarights`
-- `11-02_LegalAspects_Dataprotection`
-- `11-03_LegalAspects_BusinessSecrets`
-- `11-04_LegalAspects_Nagoya`
-- `11-05_LegalAspects_Structure`
+  - `11-00_LegalAspects_CaseStudy`
+  - `11-01_LegalAspects_Datarights`
+  - `11-02_LegalAspects_Dataprotection`
+  - `11-03_LegalAspects_BusinessSecrets`
+  - `11-04_LegalAspects_Nagoya`
+  - `11-05_LegalAspects_Structure`
 - `12_WrapUp`
 - `Template_Teachingscript`
+- 
 - `FAIRagro_Example_Training`
+  - Worksheets  - LinksToShare
+  - Recording  - Slides
+  - Teachingscript  - Announcement
+
+
+
 - `HowToCreateATraining`
 - `README`
 
