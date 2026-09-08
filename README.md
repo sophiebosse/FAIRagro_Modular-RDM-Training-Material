@@ -5,7 +5,7 @@
 ### Authors
 
 - Sophie Boße (ORCID: [0009-0002-6461-8291](https://orcid.org/0009-0002-6461-8291)) [1a]
-- Elena Rey Mazón (ORCID: 0000-0003-4813-5927) [2b]
+- Elena Rey Mazón (ORCID: [0000-0003-4813-5927](https://orcid.org/0000-0003-4813-5927)) [2b]
 - Wahib Sahwan (ORCID: 0000-0002-6503-5525) [3c]
 - Lea Sophie Singson (ORCID: 0009-0004-9978-8703) [4d]
 - Lucia Vedder (ORCID: 0000-0002-8924-9800) [5e]
