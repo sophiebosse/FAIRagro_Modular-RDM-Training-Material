@@ -1,0 +1,11 @@
+| **ID** | **Topic**| **Subtopic**| **Learning Objective**| **Content**| **Duration (hh:mm:ss)** | **Timing** | **Format**| **Material** | **Breathing** | **Comment**| **Responsible Person** |
+| ------ | ----------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------- | ---------- | ------------ | ------------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+||||||| 08:00:00||||||
+| 03-01  | Research Policies | Research Policies | Learners are able to explain the relevance of research data policies.| Definition and Scope of Research Data Policies| 00:02:00| 08:02:00| Presentation | slides| In|||
+| 03-02  | Research Policies | Research Policies | Learners are able to name examples of research data policies.  <br>Learners are able to explain the difference between subject-specific and institutional research data policies. | Examples and further resources on developing research data policies | 00:02:00| 08:04:00| Presentation | slides| In|||
+| 03-03  | Research Policies | Research Policies | Learners are able to carry out search on research data policies under guidance.| Exercise: Searching for institutional Research Data Policy| 00:05:00| 08:09:00| Exercise| slides| Out| If your participants are from the same institution, prepare a presentation on the institution's research data policy.||
+| 03-04  | Research Policies | Research Policies || Resource on creation of Research Data Policy| 00:00:00| 08:04:00| Presentation | slides| In| Note: This slide is for participants to check out the links after the training course, add the slide if you share the slides with the participants. ||
+
+
+
+: {tbl-colwidths="[4, 5, 5, 25, 20, 4, 4, 5, 4, 3, 17, 4]"}

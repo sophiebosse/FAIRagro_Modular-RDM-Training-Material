@@ -1,0 +1,12 @@
+| **ID** | **Topic**| **Subtopic**| **Learning Objective**| **Content**| **Duration (hh:mm:ss)** | **Timing** | **Format**| **Material** | **Breathing** | **Comment**| **Responsible Person** |
+| ------ | ---------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------- | ---------- | ------------ | ------------ | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+||||||| 08:00:00||||||
+| 02_01  | Good Research Practice | Good Research Practice | Learners are able to explain relevance of the DFG guidelines for safeguarding good research practice.| Definition DFG and its Guidelines for Safeguarding Good Research Practice| 00:02:00| 08:02:00| Presentation | slides| In|||
+| 02_02  | Good Research Practice | Good Research Practice | Learners are able to explain for whom and why safeguarding the good research practice is legally binding.| For whom and why GRP is legally binding| 00:03:00| 08:05:00| Presentation | slides| In|||
+| 02_03  | Good Research Practice | Good Research Practice | Learners are able to explain the relevance of research data management in relation to good scientific practice. | Discussion about the relevance of RDM for safeguarding good research practice | 00:06:00| 08:11:00| Discussion| slides| Out| Discussion in plenum about the relevance of RDM for safeguarding the good research practice. Alternatively, you could consider using an interactive tool such as Mentimeter. ||
+| 02_04  | Good Research Practice | Good Research Practice | Learners are able to explain the relevance of research data management in relation to good scientific practice. | What guidelines of the DFG relate to RDM and how| 00:06:00| 08:17:00| Presentation | slides| In|||
+| 02_05  | Good Research Practice | Good Research Practice | Learners are able to name codices and guidelines for good scientific practice.| Examples of universitary research data policies| 00:04:00| 08:21:00| Presentation | slides| In|||
+
+
+
+: {tbl-colwidths="[4, 5, 5, 25, 20, 4, 4, 5, 4, 3, 17, 4]"}
