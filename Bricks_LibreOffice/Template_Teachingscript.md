@@ -1,9 +1,8 @@
-## Template_Teachingscript
+| **ID** | **Topic** | **Subtopic** | **Learning Objecitve** | **Content** | **Duration (hh:mm:ss)** | **Timing** | **Format** | **Material** | **Breathing** | **Comment** | **Responsible Person** |
+| ------ | --------- | ------------ | ---------------------- | ----------- | ----------------------- | ---------- | ---------- | ------------ | ------------- | ----------- | ---------------------- |
+||||||| 08:00:00||||||
+||||||| 08:00:00||||||
 
 
-| ID | Topic | Subtopic | Learning Objective | Content | Duration (hh:mm:ss) | Timing | Format | Material | Breathing | Comment | Responsible Person | 
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
-
+: {tbl-colwidths="[4, 5, 5, 25, 20, 4, 4, 5, 4, 3, 17, 4]"}
